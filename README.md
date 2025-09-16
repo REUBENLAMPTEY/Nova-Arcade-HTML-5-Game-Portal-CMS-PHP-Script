@@ -1,5 +1,5 @@
 <h1>Nova Arcade HTML 5 Game Portal CMS - PHP Script</h1>
-<b>Nova Arcade - Powerful PHP Game Portal Script & HTML5 Arcade CMS to launch your SEO-optimized game portal</b>
+<h2>Nova Arcade - Powerful PHP Game Portal Script & HTML5 Arcade CMS to launch your SEO-optimized game portal</h2>
 <hr/>
 
 Nova Arcade is a lightweight yet powerful standalone HTML5 Game Portal CMS built with modern PHP (7.4+) and Tailwind CSS. It enables you to launch a fully functional and monetizable game website within minutes — no advanced coding skills required.
@@ -22,8 +22,8 @@ Codester Link: [Nova Arcade on Codester](https://www.codester.com/items/57521/no
 
 <img width="480" height="330" alt="Nova Arcade Php Script Dark Theme" src="https://github.com/user-attachments/assets/3d021b5d-7ff3-418f-a550-cefbfa5df642" />
 
+<h3>Features</h3>
 
-Features
 🎮 Import over 20000 HTML5 games via API GamePix GameMonetize GameDistribution
 
 📥 Upload your own self-hosted HTML5 games
