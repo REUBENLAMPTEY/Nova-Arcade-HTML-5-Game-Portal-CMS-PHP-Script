@@ -14,6 +14,10 @@ With a modern, responsive design powered by Tailwind CSS, a secure admin panel, 
 
 🧩 Built for indie developers, digital marketers, and game enthusiasts looking to monetize HTML5 game content and maximize SEO traffic potential.
 
+## You can access the script via Codester, Link:
+Codester Link: [Nova Arcade on Codester](https://www.codester.com/items/57521/nova-arcade-html-5-game-portal-cms-php-script?ref=WexisStudios)
+<hr/>
+
 <img width="480" height="330" alt="Nova Arcade Php Script Light Theme" src="https://github.com/user-attachments/assets/81fa1005-315b-4fb4-80c1-107eca1323f3" />
 
 <img width="480" height="330" alt="Nova Arcade Php Script Dark Theme" src="https://github.com/user-attachments/assets/3d021b5d-7ff3-418f-a550-cefbfa5df642" />
@@ -85,6 +89,4 @@ This makes Nova Arcade highly extendable for developers and scalable for growing
 
 <img width="540" height="675" alt="Nova Arcade SEO" src="https://github.com/user-attachments/assets/108cc947-81d5-42b3-a2f0-72a89af19953" />
 <img width="480" height="330" alt="Nova Arcade Admin Panel" src="https://github.com/user-attachments/assets/1bb4a4ec-a442-429e-97d8-4ffcadab7f33" />
-
-
 
