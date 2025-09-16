@@ -1,6 +1,7 @@
-<b>Nova Arcade HTML 5 Game Portal CMS - PHP Script</b>
+<h1>Nova Arcade HTML 5 Game Portal CMS - PHP Script</h1>
+<b>Nova Arcade - Powerful PHP Game Portal Script & HTML5 Arcade CMS to launch your SEO-optimized game portal</b>
+<hr/>
 
-Overview
 Nova Arcade is a lightweight yet powerful standalone HTML5 Game Portal CMS built with modern PHP (7.4+) and Tailwind CSS. It enables you to launch a fully functional and monetizable game website within minutes — no advanced coding skills required.
 🎮 Whether you're building a new online arcade or expanding an existing games platform, Nova Arcade gives you full control, top-notch performance, and built-in SEO tools to grow fast.
 This is not a WordPress plugin or theme — it's a full PHP CMS dedicated to HTML5 game publishing, user interaction, and traffic generation.
