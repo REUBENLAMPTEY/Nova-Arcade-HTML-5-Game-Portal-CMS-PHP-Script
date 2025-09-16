@@ -1,3 +1,5 @@
+<b>Nova Arcade HTML 5 Game Portal CMS - PHP Script</b>
+
 Overview
 Nova Arcade is a lightweight yet powerful standalone HTML5 Game Portal CMS built with modern PHP (7.4+) and Tailwind CSS. It enables you to launch a fully functional and monetizable game website within minutes — no advanced coding skills required.
 🎮 Whether you're building a new online arcade or expanding an existing games platform, Nova Arcade gives you full control, top-notch performance, and built-in SEO tools to grow fast.
@@ -14,6 +16,7 @@ With a modern, responsive design powered by Tailwind CSS, a secure admin panel, 
 <img width="480" height="330" alt="Nova Arcade Php Script Light Theme" src="https://github.com/user-attachments/assets/81fa1005-315b-4fb4-80c1-107eca1323f3" />
 
 <img width="480" height="330" alt="Nova Arcade Php Script Dark Theme" src="https://github.com/user-attachments/assets/3d021b5d-7ff3-418f-a550-cefbfa5df642" />
+
 
 Features
 🎮 Import over 20000 HTML5 games via API GamePix GameMonetize GameDistribution
@@ -79,7 +82,7 @@ Get future enhancements as plug-and-play modules
 Create and integrate your own custom plugins seamlessly
 This makes Nova Arcade highly extendable for developers and scalable for growing platforms
 
-<img width="756" height="945" alt="Nova Arcade SEO" src="https://github.com/user-attachments/assets/108cc947-81d5-42b3-a2f0-72a89af19953" />
+<img width="540" height="675" alt="Nova Arcade SEO" src="https://github.com/user-attachments/assets/108cc947-81d5-42b3-a2f0-72a89af19953" />
 <img width="480" height="330" alt="Nova Arcade Admin Panel" src="https://github.com/user-attachments/assets/1bb4a4ec-a442-429e-97d8-4ffcadab7f33" />
 
 
